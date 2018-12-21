@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0 (swiftlang-900.0.65 clang-900.0.37)"
+options: "b4548a2530aa6cf9b1af3249a5360ddf"
+build_time: [1541722075, 747725000]
+inputs:
+  "/Users/ahmed/Desktop/IOS PRo/loqya/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [1541542672, 0]

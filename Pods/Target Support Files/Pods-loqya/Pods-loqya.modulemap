@@ -1,0 +1,6 @@
+framework module Pods_loqya {
+  umbrella header "Pods-loqya-umbrella.h"
+
+  export *
+  module * { export * }
+}
